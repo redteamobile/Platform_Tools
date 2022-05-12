@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Platform_Tools.iml" filepath="$PROJECT_DIR$/.idea/Platform_Tools.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ticket/ticket.iml" filepath="$PROJECT_DIR$/ticket/ticket.iml" />
     </modules>
   </component>
 </project>
